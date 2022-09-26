@@ -55,7 +55,6 @@ body{
 }
 
 #logo{
-    /* background-color: rgb(64, 64, 64); */
     height: 65px;
     width: 100px;
     margin-left: 50px;
@@ -112,12 +111,65 @@ body{
     margin-left: 5vh;
 }
 
-.caratulas{
+.caratula-1{
     width: 19vw;
     margin-right: 0.3em; 
     border-radius: 2px;  
 }
 
+.caratula-2{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-3{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-4{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-5{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-6{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-7{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-8{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-9{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
+
+.caratula-10{
+    width: 19vw;
+    margin-right: 0.3em; 
+    border-radius: 2px;  
+}
 
 .zoom:hover{
     transform: scale(1.2);
