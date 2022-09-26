@@ -4,7 +4,9 @@
 }
 
 .caratula-4{
-    visibility: hidden;
+    width: 45vw;
+    justify-content: center;
+    border-radius: 2px;
 }
 
 .caratula-5{
@@ -12,22 +14,26 @@
 }
 
 .caratula-9{
-    visibility: hidden;
+    width: 45vw;
+    justify-content: center;
+    border-radius: 2px;
 }
+
 
 .caratula-10{
     visibility: hidden;
+
 }
 
 .caratula-1{
-    width: 80vw;
+    width: 45vw;
     justify-content: center;
     border-radius: 2px;
     margin-bottom: 10px;
 }
 
 .caratula-2{
-    width: 80vw;
+    width: 45vw;
     justify-content: center;
     border-radius: 2px;
     margin-bottom: 10px;
@@ -35,29 +41,28 @@
 }
 
 .caratula-3{
-    width: 80vw;
+    width: 45vw;
     justify-content: center;
     border-radius: 2px;
 }
 
 .caratula-6{
-    width: 80vw;
+    width: 45vw;
+    justify-content: center;
     border-radius: 2px;
-    margin-bottom: 10px;
 }
 
 .caratula-7{
-    width: 80vw;
+    width: 45vw;
     justify-content: center;
     border-radius: 2px;
     margin-bottom: 10px;
 }
 
 .caratula-8{
-    width: 80vw;
+    width: 45vw;
     justify-content: center;
     border-radius: 2px;
-    margin-bottom: 10px;
 }
 
 #container-3{
@@ -85,7 +90,6 @@
 /* Estos son los containers de los textos DOCUMENTALES y LO MÁS VISTO  */
 
 #container-4{
-    margin-top: 50vh;
     margin-left: 2vh;
     margin-bottom: 20px;
 }
