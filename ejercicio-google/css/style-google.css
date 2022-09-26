@@ -1,0 +1,83 @@
+body {
+    background-image: url(/ejercicio-google/images/background-google-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    
+
+}
+
+.head{
+    background-color: rgb(197, 197, 221);
+    height: 10vh
+}
+
+.body{
+    background-color: bisque;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.center-body{
+    /* background-color: rgb(123, 123, 145); */
+    height: 75vh;
+    width: 50vw;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+
+}
+
+#logo-google{
+    width: 20vw;
+    display: flex;
+    margin: auto;
+    padding: 10vh 10vh 5vh 10vh;
+    
+}
+
+#search{
+    background-color: blue;
+    height: 8vh;
+}
+
+#search-bar{
+    background-color: white;
+    height: 5vh;
+    width: 35vw;
+    border-radius: 50px;
+    margin: auto;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+
+}
+
+#logo-lupa{
+    width: 15px;
+    /* margin: auto; */
+    margin-top: 1.5vh;
+    margin-left: 2vh;
+    size: ;
+    
+}
+
+#logo-micro{
+    width: 15px;
+    float: right;
+    margin-top: 1.5vh;
+    margin-right: 2vh;
+   
+    
+
+}
+    
+
+.footer{
+    background-color: aqua;
+    height: 10vh;
+}
