@@ -1,25 +1,40 @@
 body {
-    background-image: url(/ejercicio-google/images/background-google-2.jpg);
+    background-image: url(/ejercicio-google/images/background-google-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
     height: 100vh;
-    
+
 
 }
 
 .head{
-    background-color: rgb(197, 197, 221);
+    /* background-color: rgb(197, 197, 221); */
     height: 10vh
 }
 
+
+.left-links{
+    display: flex;
+    margin-top: 1.5vh;
+    margin-left: 1.5vh;
+    
+}
+
+.link-text{
+    color: black;
+    font-family: Arial;
+    text-decoration: none;
+    padding-left: 2vh;
+}
+
 .body{
-    background-color: bisque;
+    /* background-color: bisque; */
     height: 80vh;
     justify-content: center;
     align-items: center;
     align-content: center;
-    
+
 }
 
 .center-body{
@@ -38,6 +53,7 @@ body {
     margin: auto;
     padding: 10vh 10vh 5vh 10vh;
     
+
 }
 
 #search{
@@ -46,36 +62,51 @@ body {
 }
 
 #search-bar{
-    background-color: white;
+    /* background-color: white; */
     height: 5vh;
     width: 35vw;
     border-radius: 50px;
     margin: auto;
-    /* display: flex; */
-    /* justify-content: center;
-    align-items: center; */
 
+
+}
+
+.imput{
+    width: 35vw;
+    height: 3vw;
+    /* margin: auto; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    /* borrar esto de abajo */
+    position: absolute;
 }
 
 #logo-lupa{
     width: 15px;
+    position: relative;
     /* margin: auto; */
-    margin-top: 1.5vh;
     margin-left: 2vh;
-    size: ;
-    
+    margin-top: 2.5vh;
+    margin-bottom: auto;
+    /* margin-bottom: 5vh; */
+
+
 }
 
 #logo-micro{
     width: 15px;
     float: right;
-    margin-top: 1.5vh;
+    margin-top: 2.5vh;
     margin-right: 2vh;
-   
-    
+    position: relative;
+
+
+
 
 }
-    
+
 
 .footer{
     background-color: aqua;
